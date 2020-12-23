@@ -1,0 +1,6 @@
+D:\CursoC#\Projects\Course\GCF.Classes.Media\bin\Debug\GCF.Classes.Media.dll
+D:\CursoC#\Projects\Course\GCF.Classes.Media\bin\Debug\GCF.Classes.Media.pdb
+D:\CursoC#\Projects\Course\GCF.Classes.Media\obj\Debug\GCF.Classes.Media.csprojAssemblyReference.cache
+D:\CursoC#\Projects\Course\GCF.Classes.Media\obj\Debug\GCF.Classes.Media.csproj.CoreCompileInputs.cache
+D:\CursoC#\Projects\Course\GCF.Classes.Media\obj\Debug\GCF.Classes.Media.dll
+D:\CursoC#\Projects\Course\GCF.Classes.Media\obj\Debug\GCF.Classes.Media.pdb

@@ -1,0 +1,14 @@
+D:\CursoC#\Projects\Course\GCF.UI.Principal\bin\Debug\GCF.UI.Principal.exe.config
+D:\CursoC#\Projects\Course\GCF.UI.Principal\bin\Debug\GCF.UI.Principal.exe
+D:\CursoC#\Projects\Course\GCF.UI.Principal\bin\Debug\GCF.UI.Principal.pdb
+D:\CursoC#\Projects\Course\GCF.UI.Principal\bin\Debug\GCF.Classes.Media.dll
+D:\CursoC#\Projects\Course\GCF.UI.Principal\bin\Debug\GCF.Classes.Media.pdb
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.csprojAssemblyReference.cache
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.Properties.Resources.resources
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.csproj.GenerateResource.cache
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.csproj.CoreCompileInputs.cache
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.csproj.CopyComplete
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.exe
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.pdb
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.frmPrincipal.resources
+D:\CursoC#\Projects\Course\GCF.UI.Principal\obj\Debug\GCF.UI.Principal.frmMostraResultado.resources
